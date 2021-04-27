@@ -1,0 +1,56 @@
+import React from 'react'
+import CardItem from './CardItem';
+
+function HospitalityInkBlock() {
+    return (
+        <div className='cards'>
+        <h1>Ink Block Boston</h1>
+        <div className='cards__container'>
+          <div className='cards__wrapper'>
+
+            <ul className='cards__items'>
+              <CardItem
+                src='/images/7ink1.jpg'
+                text='AC Hotel and 7 Ink block'
+                label='Boston'
+                path='/ImgInkOne'
+              />
+            </ul>
+
+            <ul className='cards__items'>
+              
+              <CardItem
+                src='/images/7ink4.jpg'
+                text='Inc block'
+                label='Boston'
+                path='/ImgInkFour'
+              />
+            </ul>
+
+            <ul className='cards__items'>   
+              <CardItem
+                src='/images/7ink2.jpg'
+                text='7ink'
+                label='Boston'
+                path='/ImgInkTwo'
+              />
+            </ul>
+
+              
+            <ul className='cards__items'>
+              <CardItem
+                src='/images/7ink3.jpg'
+                text='7-ink-2'
+                label='Boston'
+                path='/ImgInkThree'
+              />
+              
+            </ul>
+            
+          </div>
+        </div>
+      </div>
+    )
+}
+
+export default HospitalityInkBlock
