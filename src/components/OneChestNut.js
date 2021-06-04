@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function OneChestNut() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/one_chest_nut.jpg" className='img-view'/>
         </div>
         

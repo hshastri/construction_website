@@ -10,7 +10,7 @@ function Hospitality() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/one_chest_nut.jpg'
-                text='One Chest Nut Place Quincy'
+                text='One Chestnut Place Quincy'
                 label='Quincy'
                 path='/OneChestNut'
               />

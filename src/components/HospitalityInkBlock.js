@@ -21,7 +21,7 @@ function HospitalityInkBlock() {
               
               <CardItem
                 src='/images/7ink4.jpg'
-                text='Inc block'
+                text='Ink block'
                 label='Boston'
                 path='/ImgInkFour'
               />
@@ -30,7 +30,7 @@ function HospitalityInkBlock() {
             <ul className='cards__items'>   
               <CardItem
                 src='/images/7ink2.jpg'
-                text='7ink'
+                text='7 Ink (1)'
                 label='Boston'
                 path='/ImgInkTwo'
               />
@@ -40,7 +40,7 @@ function HospitalityInkBlock() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/7ink3.jpg'
-                text='7-ink-2'
+                text='7 Ink (2)'
                 label='Boston'
                 path='/ImgInkThree'
               />

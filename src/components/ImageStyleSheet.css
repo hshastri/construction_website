@@ -1,4 +1,38 @@
 .img-view{
-    width:100%;
-    height: 100%;
+    min-width:100vw;
+    max-height: 100vh;
+    object-fit: contain;
+    /*display: block;
+    margin: 0 auto;*/
+    
 }
+
+.container {
+    background: url('/src/images/black-diamond-plate.jpg') center center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+  }
+
+
+
+@media screen and (max-width: 960px) {
+    .img-view{
+        width: 100%;
+        height: 100%;
+    }
+
+    .container{
+        all: initial;
+    }
+    
+}
+
+
+
+
+
+
+
+
+
+

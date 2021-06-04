@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function EduOne() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/thsimg1.jpeg" className='img-view'/>
         </div>
     )

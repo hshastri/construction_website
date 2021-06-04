@@ -1,4 +1,5 @@
 import React from 'react'
+import './Cards.css';
 import CardItem from './CardItem';
 
 function EducationMain() {
@@ -10,7 +11,7 @@ function EducationMain() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/bu1.jpeg'
-                text='Check out our work at Universities'
+                text='Universities and Colleges'
                 label='Universities'
                 path='/educationUniversities'
               />
@@ -19,7 +20,7 @@ function EducationMain() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/thsimg2.jpeg'
-                text='Check out our work at High Schools'
+                text='High Schools'
                 label='High Schools'
                 path='/educationHS'
               />

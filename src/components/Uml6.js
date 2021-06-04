@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function uml6() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/umass6.jpeg" className='img-view'/>
         </div>
     )

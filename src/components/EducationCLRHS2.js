@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function EducationCLRHS2() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/clrhs2.jpeg" className='img-view'/>
         </div>
     )

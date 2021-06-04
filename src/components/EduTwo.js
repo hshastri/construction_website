@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function EduTwo() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/thsimg2.jpeg" className='img-view'/>
         </div>
     )

@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function ImageInkOne() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/7ink1.jpg" className='img-view'/>
         </div>
     )

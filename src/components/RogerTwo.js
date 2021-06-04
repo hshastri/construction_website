@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function RogerTwo() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/roger2.jpeg" className='img-view'/>
         </div>
     )

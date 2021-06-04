@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function EduFour() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/thsimg4.jpeg" className='img-view'/>
         </div>
     )

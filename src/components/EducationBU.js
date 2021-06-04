@@ -21,36 +21,6 @@ function EducationBU() {
                 path='/buImgTwo'
               />
             </ul>
-
-            <ul className='cards__items'>
-              <CardItem
-                src='/images/bu3.jpeg'
-                text='Boston University 3'
-                label='BU3'
-                path='/buImgThree'
-              />
-              <CardItem
-                src='/images/bu4.jpeg'
-                text='Boston University 4'
-                label='BU4'
-                path='/buImgFour'
-              />
-            </ul>
-
-            <ul className='cards__items'>
-              <CardItem
-                src='/images/bu5.jpeg'
-                text='Boston University 5'
-                label='BU5'
-                path='/buImgFive'
-              />
-              <CardItem
-                src='/images/bu6.jpeg'
-                text='Boston University 6'
-                label='BU6'
-                path='/buImgSix'
-              />
-            </ul>
             
           </div>
         </div>

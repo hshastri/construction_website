@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function BU2() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/bu2.jpeg" className='img-view'/>
         </div>
     )

@@ -3,7 +3,7 @@ import './ImageStyleSheet.css';
 
 function EduThree() {
     return (
-        <div>
+        <div className="container">
             <img src="/images/thsimg3.jpeg" className='img-view'/>
         </div>
     )

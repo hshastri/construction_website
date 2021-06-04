@@ -3,8 +3,8 @@ import './ImageStyleSheet.css';
 
 function EducationCLRHS1() {
     return (
-        <div>
-            <img src="/images/clrhs1.jpeg" className='img-view'/>
+        <div className="container">
+            <img src="/images/crlhs1.jpeg" className='img-view'/>
         </div>
     )
 }
