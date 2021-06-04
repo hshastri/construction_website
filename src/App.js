@@ -29,10 +29,6 @@ import EducationCLRHS from './components/EducationCLRHS';
 
 import BUOne from './components/pages/BUOne';
 import BUTwo from './components/pages/BUTwo';
-import BUThree from './components/pages/BUThree';
-import BUFour from './components/pages/BUFour';
-import BUFive from './components/pages/BUFive';
-import BUSix from './components/pages/BUSix';
 
 import Umass1 from './components/pages/Umass1';
 import Umass2 from './components/pages/Umass2';
@@ -95,11 +91,7 @@ function App() {
 
           <Route path='/buImgOne' component={BUOne}/>
           <Route path='/buImgTwo' component={BUTwo}/>
-          <Route path='/buImgThree' component={BUThree}/>
-          <Route path='/buImgFour' component={BUFour}/>
-          <Route path='/buImgFive' component={BUFive}/>
-          <Route path='/buImgSix' component={BUSix}/>
-
+      
           <Route path='/uml1' component={Umass1} />
           <Route path='/uml2' component={Umass2} />
           <Route path='/uml3' component={Umass3} />
