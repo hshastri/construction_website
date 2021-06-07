@@ -3,6 +3,7 @@ import Footer from '../Footer'
 import ImageInkFour from '../ImageInkFour'
 
 function ImgInkFour() {
+    window.scrollTo(0,0);
     return (
         <div>
             <ImageInkFour/>

@@ -3,6 +3,7 @@ import './Cards.css';
 import CardItem from './CardItem';
 
 function EducationMain() {
+  window.scrollTo(0,0);
     return (
         <div className='cards'>
         <h1>Education</h1>

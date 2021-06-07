@@ -3,6 +3,7 @@ import Footer from '../Footer'
 import Uml6 from '../Uml6'
 
 function Umass6() {
+    window.scrollTo(0,0);
     return (
         <div>
             <Uml6/>

@@ -5,6 +5,7 @@ import './HeroSection.css';
 import { Link } from 'react-router-dom';
 
 function HeroSection() {
+  window.scrollTo(0,0);
   return (
     <div className='hero-container'>
       

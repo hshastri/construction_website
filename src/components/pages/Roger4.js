@@ -4,6 +4,7 @@ import RogerFour from '../RogerFour'
 
 
 function Roger4() {
+    window.scrollTo(0,0);
     return (
         <div>
             <RogerFour/>

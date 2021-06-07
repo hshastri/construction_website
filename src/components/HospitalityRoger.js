@@ -2,6 +2,7 @@ import React from 'react'
 import CardItem from './CardItem';
 
 function HospitalityRoger() {
+  window.scrollTo(0,0);
     return (
         <div className='cards'>
         <h1>50 Roger St, Cambridge, MA</h1>

@@ -3,6 +3,7 @@ import Footer from '../Footer'
 import RogerOne from '../RogerOne'
 
 function Roger1() {
+    window.scrollTo(0,0);
     return (
         <div>
             <RogerOne/>

@@ -2,6 +2,7 @@ import React from 'react'
 import CardItem from './CardItem';
 
 function HospitalityInkBlock() {
+  window.scrollTo(0,0);
     return (
         <div className='cards'>
         <h1>Ink Block Boston</h1>

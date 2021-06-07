@@ -3,6 +3,7 @@ import Footer from '../Footer';
 import Cards from '../Cards';
 
 function Portfolio() {
+    window.scrollTo(0,0);
     return(
         <>
             <Cards/>

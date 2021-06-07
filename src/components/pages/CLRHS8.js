@@ -3,6 +3,7 @@ import Footer from '../Footer'
 import EducationCLRHS8 from '../EducationCLRHS8'
 
 function CLRHS8() {
+    window.scrollTo(0,0);
     return (
         <div>
             <EducationCLRHS8/>

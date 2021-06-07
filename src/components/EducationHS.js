@@ -2,6 +2,7 @@ import React from 'react';
 import CardItem from './CardItem';
 
 function EducationHS() {
+  window.scrollTo(0,0);
     return (
         <div className='cards'>
         <h1>High School</h1>

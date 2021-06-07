@@ -3,6 +3,7 @@ import Footer from '../Footer'
 import Uml1 from '../Uml1'
 
 function Umass1() {
+    window.scrollTo(0,0);
     return (
         <div>
             <Uml1/>

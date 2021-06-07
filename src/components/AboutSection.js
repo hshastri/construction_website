@@ -2,6 +2,7 @@ import React from 'react';
 import './AboutSection.css';
 
 function AboutSection() {
+    window.scrollTo(0,0);
     return (
         <div className='cuntainer'>
             <p className='para-text'>

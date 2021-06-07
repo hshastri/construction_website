@@ -3,6 +3,7 @@ import Footer from '../Footer'
 import ImageInkOne from '../ImageInkOne'
 
 function ImgInkOne() {
+    window.scrollTo(0,0);
     return (
         <>
             <ImageInkOne/>

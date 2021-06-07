@@ -8,6 +8,7 @@ const TITLE = 'Frazier Sheet Metal'
 
 
 function Home() {
+  window.scrollTo(0,0);
   return (
     <>
         <Helmet>
