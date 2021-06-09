@@ -108,11 +108,12 @@
   margin-left: 20px;
   cursor: pointer;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 1rem;
   display: flex;
   align-items: center;
   margin-bottom: 16px;
   font-family: sans-serif;
+  font-weight: bold;
 }
 
 .website-rights {
@@ -145,6 +146,11 @@
 
   .social-media-wrap {
     flex-direction: column;
+  }
+
+  .social-logo{
+    font-size: 1rem;
+    font-weight: bold;
   }
 }
 
