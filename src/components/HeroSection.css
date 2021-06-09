@@ -7,7 +7,7 @@ video {
 }
   
   .hero-container {
-    background: url('/src/images/0001.jpg') center center/cover no-repeat;
+    background: url('/src/images/0006.jpg') center center/cover no-repeat;
     opacity: 1;
     height: 100vh;
     width: 100%;
@@ -53,7 +53,7 @@ video {
   
   @media screen and (max-width: 768px) {
     .hero-container{
-      background: url('/src/images/0001.jpg') center center/cover no-repeat;
+      background: url('/src/images/0006.jpg') center center/cover no-repeat;
       background-size: 75vmax 100vmax;
     }
     .hero-container > h1 {

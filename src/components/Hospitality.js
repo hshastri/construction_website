@@ -29,7 +29,7 @@ function Hospitality() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/roger2.jpeg'
-                text='50 Roger St, Cambridge, MA'
+                text='50 Roger St. Cambridge, MA'
                 label='Cambridge'
                 path='/hospitalityRoger'
               />

@@ -12,9 +12,8 @@ function Footer() {
           
           <div class='footer-link-items'>
             <h2>Contact Us</h2>
-            <p><address>845 Woburn St, Wilmington, MA 01887</address></p>
+            <p><address>845 Woburn St. <br/>Wilmington, MA 01887</address></p>
             <p><a href='tel:9786581923'>978-658-1923</a> </p>
-            <p><a href='mailto:fraziershop17@gmail.com'>fraziershop17@gmail.com</a></p>
           </div>
         </div>
         
@@ -23,7 +22,7 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              Frazier Sheet Metal Inc
+              Frazier Sheet Metal Inc.
 
             </Link>
           </div>

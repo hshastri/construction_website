@@ -32,7 +32,7 @@ function Navbar() {
 
                 <div className="navbar-container">
                     <Link to="/" className="navbar-logo" onClick={closeMobileMenu}>
-                        Frazier Sheet Metal Inc
+                        Frazier Sheet Metal Inc.
                     </Link>
                 
 

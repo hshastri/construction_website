@@ -11,7 +11,7 @@ function HospitalityRoger() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/roger1.jpeg'
-                text='50 Roger St, Cambridge, MA'
+                text='50 Roger St. Cambridge, MA'
                 label='Cambridge'
                 path='/roger1'
               />
@@ -20,7 +20,7 @@ function HospitalityRoger() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/roger2.jpeg'
-                text='50 Roger St, Cambridge, MA'
+                text='50 Roger St. Cambridge, MA'
                 label='Cambridge'
                 path='/roger2'
               />
@@ -30,7 +30,7 @@ function HospitalityRoger() {
               
               <CardItem
                 src='/images/roger3.jpeg'
-                text='50 Roger St, Cambridge, MA'
+                text='50 Roger St. Cambridge, MA'
                 label='Cambridge'
                 path='/roger3'
               />
@@ -39,7 +39,7 @@ function HospitalityRoger() {
             <ul className='cards__items'>   
               <CardItem
                 src='/images/roger4.jpeg'
-                text='50 Roger St, Cambridge, MA'
+                text='50 Roger St. Cambridge, MA'
                 label='Cambridge'
                 path='/roger4'
               />
@@ -49,7 +49,7 @@ function HospitalityRoger() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/roger5.jpeg'
-                text='50 Roger St, Cambridge, MA'
+                text='50 Roger St. Cambridge, MA'
                 label='Cambridge'
                 path='/roger5'
               />
@@ -59,22 +59,14 @@ function HospitalityRoger() {
             <ul className='cards__items'>
               <CardItem
                 src='/images/roger6.jpeg'
-                text='50 Roger St, Cambridge, MA'
+                text='50 Roger St. Cambridge, MA'
                 label='Cambridge'
                 path='/roger6'
               />
               
             </ul>
 
-            <ul className='cards__items'>
-              <CardItem
-                src='/images/roger7.jpeg'
-                text='50 Roger St, Cambridge, MA'
-                label='Cambridge'
-                path='/roger7'
-              />
-              
-            </ul>
+            
             
           </div>
         </div>

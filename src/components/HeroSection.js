@@ -15,7 +15,7 @@ function HeroSection() {
             className='btns'
             buttonStyle='btn--outline'
             buttonSize='btn--large'
-            onClick={console.log('hey')}
+            onClick={console.log('wesbite loading...')}
           >
             Click here to view our Gallery 
           </Button>
